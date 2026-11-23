@@ -1,3 +1,4 @@
+![KQI Logo](KQI-Logo.svg)
 ## The KQI Hub
 We make file formats.
 
